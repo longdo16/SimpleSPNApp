@@ -1,0 +1,97 @@
+17
+B
+Bien. Es el imperfecto porque expresa la edad.
+No. Es el imperfecto porque expresa la edad.
+era
+B
+Bien. Es el imperfecto porque es una acción habitual.
+No. Es el imperfecto porque es una acción habitual.
+vivía
+A
+Bien. Es el pretérito porque la acción terminó.
+No. Es el pretérito porque la acción terminó.
+despidieron
+A
+Bien. Es el pretérito porque la acción terminó.
+No. Es el pretérito porque la acción terminó.
+pusieron
+A
+Bien. Es el pretérito porque es una acción terminada.
+No. Es el pretérito porque es una acción terminada.
+llegó
+A
+Bien. Es una acción terminada.
+No. Es el pretérito porque es una acción terminada.
+encontraron
+A
+Bien. Es el pretérito porque la acción terminó.
+No. Es el pretérito porque la acción terminó.
+dieron
+B
+Bien. Es el imperfecto porque es una emoción.
+No. El pretérito indica la acción de intentar. 
+quería
+B
+Bien. 'Siempre' indica una acción habitual.
+No. 'Siempre' indica una acción habitual.
+hacía
+B
+Bien. Es el imperfecto porque es una descripción. 
+No. Es el imperfecto. No es una acción-es descripción.
+tenía
+B
+Bien. Es el imperfecto porque es una descripción.
+No. Es el imperfecto. No es una acción-es descripción.
+llamaba
+B
+Bien.  'Todos los días indica una acción habitual.
+No.  'Todos los días indica una acción habitual.
+divertían
+A
+Bien. Es el pretérito porque aprendió algo por primera vez. 
+No. Es el pretérito porque aprendió algo por primera vez.
+supo
+A
+Bien. Es el pretérito porque es una acción concluida.
+No. Es el pretérito porque es una acción concluida.
+dijeron
+B
+Bien. Es el imperfecto porque es descripción.
+No. Es el imperfecto porque es descripción.
+era
+A
+Bien. La acción empezó, duró 10 años, y terminó. 
+No.  La acción empezó, duró 10 años, y terminó.
+pasó
+A
+Bien. Es el pretérito porque la acción comenzó.
+No. Es el pretérito porque la acción comenzó. 
+empezó
+
+	Cuando Kal-El (fue, era)(1)___ joven él (vivió, vivía)(2)___ en el planeta Krypton. Pero un día sus padres se (despidieron, 
+despedían)(3)___ de él y lo (pusieron, ponían)(4)___ en una nave espacial para salvarlo de la explosión de Krypton. Después de un 
+viaje largo, él (llegó, llegaba)(5)___ a un pueblo en Kansas donde Johnathan y Martha Kent lo (encontraron, encontraban)(6)___. 
+Ellos le (dieron, daban)(7)___ el nombre nuevo de Clark Kent. Clark (quiso, quería)(8)___ mucho a sus padres adoptivos y siempre 
+(hizo, hacía)(9)___ muchos quehaceres para ayudarlos en casa. Clark (tuvo, tenía)(10)___ un perro que se (llamó, llamaba)(11)___ Krypto 
+y se (divirtieron, divertían)(12)___ juntos cada día. Un día Clark (supo , sabía)(13)___ la verdad sobre su doble identidad cuando sus 
+padres le (dijeron, decían)(14)___ que (fue , era)(15)___ Superhombre! Clark (pasó, pasaba)(16)___ 10 años con su familia adoptiva en 
+Kansas y entonces (empezó, empezaba)(17)___ a trabajar como reportero para el Daily Planet.
+
+Answer for #1:  
+Answer for #2:  
+Answer for #3:  
+Answer for #4:  
+Answer for #5:  
+Answer for #6:  
+Answer for #7:  
+Answer for #8:  
+Answer for #9:  
+Answer for #10:  
+Answer for #11:  
+Answer for #12:  
+Answer for #13:  
+Answer for #14:  
+Answer for #15:  
+Answer for #16:  
+Answer for #17:  
+
